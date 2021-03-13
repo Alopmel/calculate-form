@@ -29,7 +29,7 @@ buttonSolution.addEventListener("click" , function (){
             console.log("Values are incorrect");
             break;      
     }
-    result.textContent = `Result: ${finalValue}`;
+    result.textContent = ` ${finalValue}`;
     console.log(finalValue);
     }
     );
